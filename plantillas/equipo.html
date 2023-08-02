@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Gestión de equipos</title>
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css">
+</head>
+<body class="bg-light">
+  <div class="container">
+    <div class="row justify-content-center mt-5">
+      <div class="col-md-6">
+        <div class="card shadow">
+          <div class="card-body">
+            <h2 class="text-center mb-4">Gestión de equipos</h2>
+            <form>
+              <div class="form-group">
+                <label for="team">Equipo</label>
+                <select class="form-control" id="team">
+                  <option value="">Seleccionar equipo...</option>
+                  <option value="equipo1">Equipo 1</option>
+                  <option value="equipo2">Equipo 2</option>
+                  <option value="equipo3">Equipo 3</option>
+                </select>
+              </div>
+              <button type="submit" class="btn btn-primary btn-block">Unirse al equipo</button>
+            </form>
+            <hr>
+            <form>
+              <div class="form-group">
+                <label for="new-team">Crear un nuevo equipo</label>
+                <input type="text" class="form-control" id="new-team" placeholder="Ingrese el nombre del nuevo equipo">
+              </div>
+              <button type="submit" class="btn btn-primary btn-block">Crear equipo</button>
+            </form>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  
+  <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js"></script>
+</body>
+</html>
