@@ -21,7 +21,7 @@ Importante: En el puerto 3000 escucha a la API del backend
 ## Capturas de pantalla:
 
 ## Mejoras futuras
-Es mejorable el performance de las consultas realizadas a los endpoints
+- [ ] Mejorar el performance de las consultas realizadas a los endpoints
 
 ## Contacto
 Si tienes alguna pregunta o sugerencia, no dudes en ponerte en contacto mediate octavioalcalde1@gmail.com
