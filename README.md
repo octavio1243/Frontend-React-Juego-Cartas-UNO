@@ -1,14 +1,12 @@
 # Juego de cartas UNO (Frontend en React)
 
-Se recreo el juego de cartas UNO con modalidad grupal e individual con reglas manejadas por los usuarios
-Soporta modalidad en grupos
-
-Las caracteristicas son:
-- Creacion de partidas en modalidad grupal e individual
+Se recreo el juego de cartas UNO. Sus caracteristicas son:
+- Creación y logueo de usuarios
+- Creacion de partidas en modalidad grupal e individual (generación de token)
 - Buscar partidas dado su token
-- Gestionar información del usuario como lo es la foto de perfil y cambiar su contraseña
-- En cada partida se puede obtener los jugadores rivales o compañeros y la cantidad de cartas de cada uno
-- 
+- Crear y unirse a grupos de modalidad grupal
+- Gestionar información del usuario (foto de perfil y cambiar su contraseña)
+- En cada partida se pueden tomar cartas del mazo, tirar cartas propias, ver cartas propias y su cantidad. Además de ver los otros usuarios de la partida como también la cantidad de cartas que tienen
 
 ## ¿Cómo ejecutar?
 
@@ -21,7 +19,10 @@ Importante: En el puerto 3000 escucha a la API del backend
 ## Capturas de pantalla:
 
 ## Mejoras futuras
-- [ ] Mejorar el performance de las consultas realizadas a los endpoints
+- [ ] Mejorar el performance de las peticiones realizadas a los endpoints
+- [ ] Agregar captcha para el registro
+- [ ] Agregar confirmación de correo electrónico
+- [ ] Hacerlo responsive para dispositivos móviles
 
 ## Contacto
 Si tienes alguna pregunta o sugerencia, no dudes en ponerte en contacto mediate octavioalcalde1@gmail.com
