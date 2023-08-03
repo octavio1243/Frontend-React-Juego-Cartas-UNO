@@ -17,6 +17,8 @@ Se recreo el juego de cartas UNO. Sus características son:
 Importante: En el puerto 3000 escucha a la API del backend (se puede cambiar en el /src/config.js)
 
 ## Capturas de pantalla:
+![Pantalla de registro](https://raw.githubusercontent.com/octavio1243/Frontend-React-Juego-Cartas-UNO/main/capturas/0-registrarse.jpeg)
+
 
 ## Mejoras futuras
 - [ ] Mejorar el performance de las peticiones realizadas a los endpoints
