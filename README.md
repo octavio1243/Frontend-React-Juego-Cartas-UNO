@@ -1,4 +1,4 @@
-# Juego de UNO (Frontend en React)
+# Juego de cartas UNO (Frontend en React)
 
 Se recreo el juego de cartas UNO con modalidad grupal e individual con reglas manejadas por los usuarios
 Soporta modalidad en grupos
@@ -20,4 +20,5 @@ Importante: En el puerto 3000 escucha a la API del backend
 
 ## Capturas de pantalla:
 
+## Si tienes alguna pregunta o sugerencia, no dudes en ponerte en contacto mediate octavioalcalde1@gmail.com
 
