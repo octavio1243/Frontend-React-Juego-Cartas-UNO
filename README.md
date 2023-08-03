@@ -1,12 +1,12 @@
 # Juego de cartas UNO (Frontend en React)
 
-Se recreo el juego de cartas UNO. Sus caracteristicas son:
-- Creación y logueo de usuarios
+Se recreo el juego de cartas UNO. Sus características son:
+- Creación e inicio de sesión para usuarios
 - Creacion de partidas en modalidad grupal e individual (generación de token)
 - Buscar partidas dado su token
 - Crear y unirse a grupos de modalidad grupal
 - Gestionar información del usuario (foto de perfil y cambiar su contraseña)
-- En cada partida se pueden tomar cartas del mazo, tirar cartas propias, ver cartas propias y su cantidad. Además de ver los otros usuarios de la partida como también la cantidad de cartas que tienen
+- En cada partida se pueden tomar cartas del mazo, tirar cartas propias, ver cartas propias y su cantidad. Además, se puede ver el nombre , la foto de perfil y la cantidad de cartas de los otros jugadores de la partida
 
 ## ¿Cómo ejecutar?
 
