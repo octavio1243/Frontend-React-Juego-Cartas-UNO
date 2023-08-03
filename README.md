@@ -8,7 +8,7 @@ Se recreo el juego de cartas UNO. Sus características son:
 - Gestionar información del usuario (foto de perfil y cambiar su contraseña) y para borrar cuenta
 - En cada partida se pueden tomar cartas del mazo, tirar cartas propias, ver cartas propias y su cantidad. Además, se puede ver el nombre , la foto de perfil y la cantidad de cartas de los otros jugadores de la partida
 - Llevar registro de los puntajes de los jugadores o grupos
-- 
+
 ## ¿Cómo ejecutar?
 
 1) Descargar y descomprimir
