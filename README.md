@@ -14,7 +14,7 @@ Se recreo el juego de cartas UNO. Sus características son:
 2) Ejecutar "npm install" sobre el directorio descomprimido
 3) Ejecutar servidor con "npm start"
    
-Importante: En el puerto 3000 escucha a la API del backend
+Importante: En el puerto 3000 escucha a la API del backend (se puede cambiar en el /src/config.js)
 
 ## Capturas de pantalla:
 
