@@ -19,23 +19,23 @@ Importante: En el puerto 3000 escucha a la API del backend (se puede cambiar en 
 
 ## Capturas de pantalla:
 ### Pantalla para registrarse
-![](https://raw.githubusercontent.com/octavio1243/Frontend-React-Juego-Cartas-UNO/main/capturas/0-registrarse.jpeg)
+![](./capturas/0-registrarse.jpeg)
 ### Pantalla para iniciar sesión
-![](https://raw.githubusercontent.com/octavio1243/Frontend-React-Juego-Cartas-UNO/main/capturas/1-loguearse.jpeg)
+![](./capturas/1-loguearse.jpeg)
 ### Pantalla para ver detalles de mi cuenta y/o borrar cuenta
-![](https://raw.githubusercontent.com/octavio1243/Frontend-React-Juego-Cartas-UNO/main/capturas/2-mi_cuenta.jpeg)
+![](./capturas/2-mi_cuenta.jpeg)
 ### Pantalla para cambiar contraseña
-![](https://raw.githubusercontent.com/octavio1243/Frontend-React-Juego-Cartas-UNO/main/capturas/3-cambiar_contrase%C3%B1a.jpeg)
+![](./capturas/3-cambiar_contrase%C3%B1a.jpeg)
 ### Pantalla para crear una partida
-![](https://raw.githubusercontent.com/octavio1243/Frontend-React-Juego-Cartas-UNO/main/capturas/4-crear_partida.jpeg)
+![](./capturas/4-crear_partida.jpeg)
 ### Pantalla para unirse a una partida
-![](https://raw.githubusercontent.com/octavio1243/Frontend-React-Juego-Cartas-UNO/main/capturas/5-unirse_partida.jpeg)
+![](./capturas/5-unirse_partida.jpeg)
 ### Pantalla para ver partidas del usuario
-![](https://raw.githubusercontent.com/octavio1243/Frontend-React-Juego-Cartas-UNO/main/capturas/6-partidas_usuario.jpeg)
+![](./capturas/6-partidas_usuario.jpeg)
 ### Pantalla para jugar la partida
-![](https://raw.githubusercontent.com/octavio1243/Frontend-React-Juego-Cartas-UNO/main/capturas/7-panel_juego.jpeg)
+![](./capturas/7-panel_juego.jpeg)
 ### Pantalla popup para ver los puntajes
-![](https://raw.githubusercontent.com/octavio1243/Frontend-React-Juego-Cartas-UNO/main/capturas/8-puntaje_jugadores.jpeg)
+![](./capturas/8-puntaje_jugadores.jpeg)
 
 ## Mejoras futuras
 - [ ] Mejorar el performance de las peticiones realizadas a los endpoints
